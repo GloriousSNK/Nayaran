@@ -1,0 +1,15 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sriman Narayan Kandi",
+  "license": "ISC",
+  "description": "A blockchain system using javascript",
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "elliptic": "^6.5.6"
+  }
+}
