@@ -6,7 +6,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Sriman Narayan Kandi",
-  "license": "ISC",
+  "license": "MIT",
   "description": "A blockchain system using javascript",
   "dependencies": {
     "crypto-js": "^4.2.0",
